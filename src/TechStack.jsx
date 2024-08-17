@@ -1,11 +1,11 @@
 const TechStack = () => {
   const technologies = [
-    { name: "JavaScript", logo: "assets/Copy of Untitled/JsLo.png" },
-    { name: "React", logo: "assets/Copy of Untitled/ReactLo.png" },
-    { name: "GraphQL", logo: "assets/Copy of Untitled/GraphLo.png" },
-    { name: "Ruby", logo: "assets/Copy of Untitled/Rubylo.png" },
-    { name: "Vue.js", logo: "assets/Copy of Untitled/VueLo.png" },
-    { name: "Rails", logo: "assets/Copy of Untitled/RailsLo.png" },
+    { name: "JavaScript", logo: "assets/TechStackLogos/JsLo.png" },
+    { name: "React", logo: "assets/TechStackLogos/ReactLo.png" },
+    { name: "GraphQL", logo: "assets/TechStackLogos/GraphLo.png" },
+    { name: "Ruby", logo: "assets/TechStackLogos/Rubylo.png" },
+    { name: "Vue.js", logo: "assets/TechStackLogos/VueLo.png" },
+    { name: "Rails", logo: "assets/TechStackLogos/RailsLo.png" },
   ];
 
   return (
