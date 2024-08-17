@@ -1,4 +1,5 @@
-// BlogCard.jsx
+//This BlogCard component creates a visually appealing card for displaying blog post information
+
 import { Card } from "@/components/ui/card";
 import { Avatar, AvatarImage } from "@/components/ui/avatar";
 

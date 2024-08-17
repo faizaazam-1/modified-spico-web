@@ -1,5 +1,3 @@
-import React from "react";
-
 const TechStack = () => {
   const technologies = [
     { name: "JavaScript", logo: "assets/Copy of Untitled/JsLo.png" },

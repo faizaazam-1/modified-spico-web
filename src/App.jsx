@@ -18,10 +18,10 @@ function App() {
       <TeamNew />
       <TechStack />
       <BlogSection />
+
       <CoreValuesSection />
       <ContactPage />
       <Newsletter />
-
       <Footer navigation={footerNavigation} />
     </>
   );

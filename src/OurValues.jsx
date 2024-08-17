@@ -1,4 +1,3 @@
-// src/components/CoreValuesSection.jsx
 import React, { useState } from "react";
 import { Card } from "@/components/ui/card";
 import { coreValues } from "/src/coreValues.js";

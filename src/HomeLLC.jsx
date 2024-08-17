@@ -1,3 +1,4 @@
+//Not Used yet it the website, part of Manupage
 import { Button } from "@/components/ui/button";
 import { X } from "lucide-react";
 import backgroundVideo from "assets/SpicoTech LLC.mp4";

@@ -1,5 +1,3 @@
-import React from "react";
-
 const TeamMember2 = ({ imageSrc, name, role }) => (
   <li className="flex flex-col items-center">
     <img
